@@ -6,6 +6,8 @@
 A browser-based tool for evaluating the safety and originality of content behind URLs, designed and built during a 48-hour hackathon by first-year students.
 
 ![Demo Safe Case](png_files/mr_incredible_lol/image.png)
+![Demo Warning Case](png_files/mr_incredible_lol/demo2.png)
+![Demo Cursed Case](png_files/mr_incredible_lol/demo3.png)
 
 ## Inspiration
 
