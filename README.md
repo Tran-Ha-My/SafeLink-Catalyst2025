@@ -5,6 +5,8 @@
 
 A browser-based tool for evaluating the safety and originality of content behind URLs, designed and built during a 48-hour hackathon by first-year students.
 
+![Demo Safe Case](png_files/mr_incredible_lol/image.png)
+
 ## Inspiration
 
 The idea was inspired by years of using the Google Dictionary extension, particularly its intuitive pop-up feature for quick definitions. We wanted to create something similarly seamless but focused on analyzing web content for safety, NSFW, discrimination, and AI-generated text. We took inspiration from their codebase to design our tool-snippet pop-ups and image loading features.
